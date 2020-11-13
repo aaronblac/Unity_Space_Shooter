@@ -7,6 +7,9 @@ TagManager:
   - Enemy
   - Laser
   - Shield
+  - Blaster
+  - EnemyDiagonal1
+  - EnemyDiagonal2
   layers:
   - Default
   - TransparentFX
