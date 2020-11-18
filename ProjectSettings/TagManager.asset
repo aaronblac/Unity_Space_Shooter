@@ -14,6 +14,12 @@ TagManager:
   - EnemyLazer
   - EnemyShield
   - Powerup
+  - EnemyHard
+  - EnemyLasers
+  - ZigZagLaser
+  - PlayerLaser
+  - HomingOrb
+  - Boss
   layers:
   - Default
   - TransparentFX
