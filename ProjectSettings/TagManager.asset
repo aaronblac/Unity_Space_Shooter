@@ -20,6 +20,7 @@ TagManager:
   - PlayerLaser
   - HomingOrb
   - Boss
+  - ShieldPower
   layers:
   - Default
   - TransparentFX
